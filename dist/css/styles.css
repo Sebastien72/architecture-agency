@@ -10140,7 +10140,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/header-bg.jpg");
+  background-image: url("../assets/img/large-grey-sofa-by-brick-wall.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -10235,6 +10235,13 @@ header.masthead .masthead-heading {
 .portfolio-modal .modal-content h2 {
   font-size: 3rem;
   line-height: 3rem;
+}
+.portfolio-modal .modal-content h6 {
+  font-family: "Droid Serif";
+  font-style: italic;
+  color: #495057;
+  font-size: 1rem;
+  line-height: 1rem;
 }
 .portfolio-modal .modal-content p.item-intro {
   font-style: italic;
@@ -10446,9 +10453,10 @@ header.masthead .masthead-heading {
 
 section#contact {
   background-color: #212529;
-  background-image: url("../assets/img/map-image.png");
+  background-image: url("../assets/img/cafe-chairs-and-brick-wall.jpg");
   background-repeat: no-repeat;
   background-position: center;
+  background-size: cover;
 }
 section#contact .section-heading {
   color: #fff;
